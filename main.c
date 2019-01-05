@@ -1,4 +1,4 @@
-// NIHIT BHAVSAR
+// Credits : Dr. Jason Losh
 // References :
 // https://en.wikibooks.org/wiki/Embedded_Systems/RTOS_Implementation
 // https://en.wikibooks.org/wiki/Embedded_Control_Systems_Design/Real_Time_Operating_systems
